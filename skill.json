@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-pubsub-event-broker-bus-skill",
+  "version": "1.0.1",
+  "description": "In-memory publish-subscribe event broker supporting wildcard routing and dead-letter channels for multi-agent choreography.",
+  "category": "Inter-Agent Communication",
+  "entrypoint": "mcp_server.py",
+  "dependencies": []
+}
